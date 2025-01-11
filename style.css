@@ -344,14 +344,14 @@ nav > h1 {
 .sub-input {
   color: rgb(255, 255, 255);
   font-family: Fira Sans;
-  font-size: 18px;
+  font-size: 15px;
   font-weight: 600;
   line-height: 22px;
   letter-spacing: 0%;
   text-align: left;
   border-radius: 0px 8px 8px 0px;
   border: none;
-  padding: 5px 15px 5px 15px;
+  padding: 5px 25px 5px 25px;
   background: rgb(0, 106, 80);
 }
 
